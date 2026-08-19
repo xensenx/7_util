@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
- # 7_Util
+# 7_Util
 </div>
 
 7_util is a collection of commands that you can customize around your own workflow to increase the speed at which you execute a task. instead of fidgeting with slow GUI, you can make repetitive task into a command, so that all you need to do is run a single command and the computer executes the command exactly the way you want it. 
